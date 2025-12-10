@@ -39,7 +39,7 @@ Feedback is provided in terms of heuristic function
 
 <H3>PROGRAM:</H3>
 
-```
+```py
 import random
 import string
 
